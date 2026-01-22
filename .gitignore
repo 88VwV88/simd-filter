@@ -1,0 +1,7 @@
+src/*.gch
+out/
+out/*
+simd-filter
+
+!cat.png
+*.png
